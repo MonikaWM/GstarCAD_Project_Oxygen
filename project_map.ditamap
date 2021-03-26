@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Project map</title>
+    <topicmeta>
+        <author>Monika Wilczyńska-Mitura</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder/>
+        </copyright>
+        <critdates>
+            <created date="2021-03-26"/>
+        </critdates>
+    </topicmeta>
+    <topicref href="topics/c_wprowadzenie.dita"/>
+    <topicref href="topics/t_instalacja.dita"/>
+    <topicref href="topics/c_pierwsze_kroki.dita">
+        <topicref href="topics/c_interfejs_uzytkownika.dita"/>
+        <topicref href="topics/c_dostosowanie_programu.dita"/>
+    </topicref>
+    <topicref href="topics/c_edycja_rysunku.dita">
+        <topicref href="topics/t_tworzenie_rysunku.dita"/>
+        <topicref href="topics/t_otwieranie_rysunku.dita"/>
+        <topicref href="topics/t_zapis_rysunku.dita"/>
+        <topicref href="topics/t_przywracanie_rysunku.dita"/>
+    </topicref>
+</map>

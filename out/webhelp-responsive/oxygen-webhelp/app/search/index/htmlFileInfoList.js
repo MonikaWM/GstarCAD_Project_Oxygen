@@ -1,0 +1,3 @@
+define(function () {
+return ["topics/c_dostosowanie_programu.html@@@Dostosowanie programu@@@...","topics/c_edycja_rysunku.html@@@c_Edycja_rysunku@@@...","topics/c_interfejs_uzytkownika.html@@@c_Interfejs_uzytkownika@@@...","topics/c_pierwsze_kroki.html@@@Pierwsze kroki@@@p...","topics/c_wprowadzenie.html@@@Wprowadzenie@@@...","topics/t_instalacja.html@@@Instalacja@@@...","topics/t_otwieranie_rysunku.html@@@t_Otwieranie_rysunku@@@...","topics/t_przywracanie_rysunku.html@@@Przywracanie rysunku@@@...","topics/t_tworzenie_rysunku.html@@@t_Tworzenie_rysunku@@@...","topics/t_zapis_rysunku.html@@@t_Zapis_rysunku@@@..."];
+});
